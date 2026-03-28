@@ -20,7 +20,7 @@ I like turning APIs into things that actually do something fun.
 
 **Project in Progress**
 
-- 🎮 **[mcp-riot]** — MCP server for Riot Games / League of Legends.
+- 🎮 **[mcp-lolesport]** — MCP server for Riot Games / League of Legends.
   Plug LLMs into live esports data.
 - 📊 **[riot-dashboard]()** — Live LoL stats dashboard — AI-classified insights powered by Groq.
 - 🎵 **spotify-sorter** — AI-powered playlist classifier using Groq for fast, cheap LLM inference.
